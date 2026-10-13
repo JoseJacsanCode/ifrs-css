@@ -1,0 +1,11 @@
+.underline {
+    text-decoration: underline;
+}
+
+.overline {
+    text-decoration: overline;
+}
+
+.line-throught {
+    text-decoration: line-through blue wavy;
+}
