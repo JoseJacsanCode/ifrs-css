@@ -1,0 +1,22 @@
+body {
+    background-color: #E7E9EB;
+}
+
+#myDIV {
+    height: 150px;
+    background-color: #fff;
+}
+
+#myDIV p {
+    background-color: blue;
+    padding: 10px;
+    margin: 20px;
+    display: block;
+}
+
+#myDIV span {
+    background-color: red;
+    padding: 10px;
+    width: 300px;
+    display: none;
+}
