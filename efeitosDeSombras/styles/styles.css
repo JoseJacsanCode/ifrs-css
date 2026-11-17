@@ -1,0 +1,7 @@
+h1 {
+    text-shadow: 2px 2px 4px rgba(243, 224, 53, 0.5);
+}
+
+p {
+    text-shadow: 1px 1px 2px red, 3px 3px 2px blue;
+}

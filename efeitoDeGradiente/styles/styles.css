@@ -1,0 +1,4 @@
+.radial-gradient-box {
+    height: 200px;
+    background: radial-gradient(circle at center, red, yellow, green);
+}
